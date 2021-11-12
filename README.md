@@ -1,2 +1,0 @@
-# Triplex Project
-WIP
