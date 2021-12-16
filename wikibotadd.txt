@@ -1,0 +1,54 @@
+{{Infobox Sekolah
+| nama          = SMA Negeri 4 Muara Teweh
+| gambar        = [[File:Smafourmutelogo.png|Smafourmutelogo]]
+| didirikan     = [[4 Juli]] [[2014]]
+| tipe          = Negeri
+| akreditasi    = A
+| kepsek        = TARYANA, S.P., M.Si.
+| jurusan       = [[Ilmu Pengetahuan Alam|IPA]] dan [[Ilmu Sosial|IPS]]
+| rentang kelas = X1,X2,X3,X4,X5, XI IPA, XI IPS, XII IPA, XII IPS
+| kurikulum     = [[Kurikulum 2013]]
+| murid         = +666
+| status        = Sekolah Negeri Standar Nasional
+| alamat        = Jalan Ronggolawe
+| kota          = [[Muara Teweh]]
+| provinsi      = [[Kalimantan Tengah]]
+| negara        = [[Indonesia]]
+| situs web     = http://smafourmute.github.io/x
+| surel         =smafourmute@gmail.com 
+| catatan       = ''SMA PGRI Muara Teweh adalah nama sekolah sebelum menjadi sekolah negeri standar nasional atau saat masih berstatus swasta'' '''
+|NPSN=30200975}}
+
+'''Sekolah Menengah Atas Negeri 4 Muara Teweh''' atau dikenal juga dengan nama '''SMAFOURMUTE''' yang berada di [[Muara Teweh]], [[Kalimantan Tengah]].
+
+== Sejarah ==
+'''SMA Negeri (SMAN) 4 Muara Teweh''' menempati gedung di Jl. Ayani  yang diperkirakan sudah didirikan sejak tahun [[2000]] yang pada waktu itu dengan berstatus swasta , setelah berubah status menjadi negeri perubahan nama dari '''SMA PGRI''' menjadi '''SMA Negeri (SMAN) 4 Muara Teweh''' atas keputusan Pemerintah.
+
+'''SMA Negeri (SMAN) 4 Muara Teweh''', merupakan salah satu [[Sekolah Menengah Atas]] Negeri yang ada di [[Provinsi]] [[Kalimantan Tengah]], [[Indonesia]]. Sama dengan SMA pada umumnya di [[Indonesia]] masa [[pendidikan]] [[sekolah]] di SMAN 4 Muara Teweh ditempuh dalam waktu tiga tahun pelajaran, mulai dari Kelas X sampai Kelas XII.
+
+== Fasilitas ==
+Berbagai fasilitas dimiliki SMAN 4 Muara Teweh untuk menunjang kegiatan belajar mengajar. Fasilitas tersebut antara lain:
+* [[Kelas|Ruang Kelas]]
+* [[Perpustakaan]]
+* [[Usaha Kesehatan Sekolah]] (UKS)
+* [[Laboratorium Kimia]]
+* [[Laboratorium Komputer]]
+* [[Osis]]
+* [[Kepala Sekolah]], [[Guru]], [[Tata Usaha]], [[Bimbingan Konseling]]
+== Ekstrakulikuler ==
+SMA Negeri 4 memiliki banyak kegiatan [[ekstrakurikuler]], di antaranya,
+* [[Palang Merah Remaja]] (PMR)
+* [[Pramuka]]
+* [[PASKIBRA]] (Pasukan Khusus Pengibar Bendera)
+* [[Futsal]]
+
+== Pranala luar ==
+Situs resmi http://smafourmute.github.io/x
+
+Data referensi Kemdikbud https://referensi.data.kemdikbud.go.id/tabs.php?npsn=30200975
+
+Perubahan nama sekolah https://kalteng.antaranews.com/berita/231051/sma-pgri-dijadikan-sman-4-muara-teweh
+
+{{DEFAULTSORT:Negeri 4 Muara Teweh}}
+{{sekolah-stub}}
+[[Kategori:Sekolah menengah atas di Kalimantan Tengah]]
